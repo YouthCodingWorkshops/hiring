@@ -1,6 +1,8 @@
 # YCW Engineering Hiring Challenges
 
-These are a collection of programming challenges intended to guage your interests and abilities. You'll be creating real-world projects using your abilities and your creativity. 
+*Is this the first time you've heard about us? Fill out the [YCW hiring](https://forms.gle/s4NXQJiAHarL4LGDA) and [SWE additional information](https://forms.gle/SbB9HKjebGBH4KBh7) forms first! We'll reach out to you and arrange an interview, after which you'll have time to complete these.*
+
+These are a collection of programming challenges intended to guage your interests and abilities. You'll be creating real-world projects using your current knowledge and creativity. 
 
 These questions are really open ended, although have some objective you need to work towards -- something you can build. You have 1 week to complete a challenge of your choosing, but if you need more time, please don't hesistate to ask. Do however, try not to spend *too* much time on them: the goal is not perfection.
 
@@ -36,7 +38,7 @@ Although it would be a nice touch, you won't be expected to have live hosting fo
 
 4. Write a test suite for your solution to make sure everything's working as intended
 
-5. Send your submission over to us and we'll take a look. After that, we'll have one final meeting to go over your solution (and the second part of step 3). That's it!
+5. [Send your submission over to us](https://forms.gle/hrWS4zgSa6ks7if28) and we'll take a look. After that, we'll have one final meeting to go over your solution (and the second part of step 3). That's it!
 
 ## Recap
 
