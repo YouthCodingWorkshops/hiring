@@ -7,7 +7,7 @@
 Your goal in this challenge is to develop a simple command line application in Python that interfaces with the NWS weather API (which is completely free to use and doesn't require signing up). 
 
 Here are the basic requirements:
-A user should be able to easily interact with your application, meaning you need to make user input. They should be able to see:
+A user should be able to easily interact with your application, meaning you need to somehow get user input. They should be able to see:
 - Current temperature
 - Current conditions
 - Min temperature for the day

@@ -14,7 +14,7 @@ We don't have a strict rubric we grade these on. Rather, we want to see how well
 
 At YCW, we use Python on the backend and Next.JS + Bulma on the frontend. All our hosting is on AWS. Our fullstack apps are hosted on Amplify and our pure APIs use API Gateway + Lambda.
 
-All our code is in the YouthCodingWorkshops Github organization and deployments are organized either by Amplify Pipelines or AWS Codepipeline. Infrastructure is automated with AWS CDK & AWS Cloudformation.
+All our code is in the YouthCodingWorkshops Github organization and deployments are orchestrated either by Amplify Pipelines or AWS Codepipeline. Infrastructure is automated with AWS CDK & AWS Cloudformation.
 
 Although it would be a nice touch, you won't be expected to have live hosting for your solutions. In fact, we provide the resources necessary for getting started with AWS as part of the onboarding process.
 
