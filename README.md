@@ -38,7 +38,7 @@ Although it would be a nice touch, you won't be expected to have live hosting fo
 
 4. Write a test suite for your solution to make sure everything's working as intended
 
-5. [Send your submission over to us](https://forms.gle/hrWS4zgSa6ks7if28) and we'll take a look. After that, we'll have one final meeting to go over your solution (and the second part of step 3). That's it!
+5. Send your submission over to us on Discord and we'll take a look. After that, we'll have one final meeting to go over your solution (and the second part of step 3). That's it!
 
 ## Recap
 
